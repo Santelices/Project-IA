@@ -1,0 +1,6 @@
+# Para ejecutar este codigo necesitas:
+# Python 3.8 https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe
+# Creacion de venv = python -m venv venv
+# Activacion de venv = .\venv\Scripts\activate
+# Instalacion de Ultralytics = pip install Ultralytics
+# Instalacion Open CV = pip install Ultralytics

@@ -1,0 +1,8 @@
+.venv/
+.idea/
+.gitattributes
+Modelos
+__pycache__/
+*.pyc
+
+
